@@ -1,0 +1,266 @@
+﻿  Bolsa.cpp
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(9,24): error C2065: 'NumFichas': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(9,11): error C2737: "<Desconocido>*": se debe inicializar el objeto <Desconocido>
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11,24): error C2065: 'NumFichas': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(18,31): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(18,31): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Bolsa.h(15,11): error C2374: 'NumFichas': nueva definición; inicialización múltiple
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.h(15): message : vea la declaración de 'NumFichas'
+  Jugadas.cpp
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(9,24): error C2065: 'NumFichas': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(9,11): error C2737: "<Desconocido>*": se debe inicializar el objeto <Desconocido>
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11,23): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11,16): error C2146: error de sintaxis: falta ';' delante del identificador 'tJugada'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11,24): error C2065: 'NumFichas': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11,38): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(15,25): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(15,25): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(18,31): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(18,31): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(22,26): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(22,42): error C2065: 'ficha': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(22,34): error C2275: 'tFicha': uso no válido de este tipo como expresión
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11): message : vea la declaración de 'tFicha'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(27,27): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(27,27): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(30,27): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(30,27): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(32,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(32,30): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(35,40): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(35,40): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.h(37,52): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.h(37,52): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Fichas.h(13,8): error C2371: 'tFicha': nueva definición; tipos básicos distintos
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11): message : vea la declaración de 'tFicha'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Bolsa.h(15,11): error C2374: 'NumFichas': nueva definición; inicialización múltiple
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.h(15): message : vea la declaración de 'NumFichas'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(9,25): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(9,25): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(12,9): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(13,7): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(13,30): error C2065: 'ficha': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(13,49): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(13,68): error C2065: 'ficha': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(26,42): error C2061: error de sintaxis: identificador 'tJugada'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(34,4): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(35,39): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(46,3): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(48,2): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(49,2): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(53,6): error C2374: 'ponerFicha': nueva definición; inicialización múltiple
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(22): message : vea la declaración de 'ponerFicha'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(53,26): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(53,42): error C2065: 'ficha': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(53,34): error C2275: 'tFicha': uso no válido de este tipo como expresión
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11): message : vea la declaración de 'tFicha'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(53,49): error C2143: error de sintaxis: falta ';' delante de '{'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(53,49): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(100,27): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(100,27): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(102,9): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(102,38): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(103,11): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(109,27): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(109,27): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(112,9): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(114,7): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(114,30): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(114,57): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(114,76): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(121,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(121,30): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(124,9): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(126,7): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(126,33): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(126,61): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(126,80): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(133,40): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(133,40): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(135,14): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(135,25): error C2065: 'ficha': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(135,44): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(136,10): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(136,39): error C2065: 'ficha': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(136,54): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(137,7): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(144,22): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(147,10): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(149,8): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(149,30): error C2065: 'ficha': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(149,54): error C2065: 'ficha': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(149,69): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(152,13): error C2065: 'ficha': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(152,31): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(152,70): error C2065: 'ficha': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.cpp(152,85): error C2065: 'jugada': identificador no declarado
+  Rummikub.cpp
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(9,24): error C2065: 'NumFichas': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(9,11): error C2737: "<Desconocido>*": se debe inicializar el objeto <Desconocido>
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11,24): error C2065: 'NumFichas': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(18,31): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(18,31): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Bolsa.h(15,11): error C2374: 'NumFichas': nueva definición; inicialización múltiple
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.h(15): message : vea la declaración de 'NumFichas'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(12,33): error C2087: 'tJugadas': falta el subíndice
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Rummikub.cpp(56,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Soporte.cpp
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(9,24): error C2065: 'NumFichas': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(9,11): error C2737: "<Desconocido>*": se debe inicializar el objeto <Desconocido>
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11,23): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11,16): error C2146: error de sintaxis: falta ';' delante del identificador 'tJugada'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11,24): error C2065: 'NumFichas': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11,38): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(15,25): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(15,25): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(18,31): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(18,31): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(22,26): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(22,42): error C2065: 'ficha': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(22,34): error C2275: 'tFicha': uso no válido de este tipo como expresión
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11): message : vea la declaración de 'tFicha'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(27,27): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(27,27): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(30,27): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(30,27): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(32,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(32,30): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(35,40): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(35,40): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.h(37,52): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.h(37,52): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Fichas.h(13,8): error C2371: 'tFicha': nueva definición; tipos básicos distintos
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11): message : vea la declaración de 'tFicha'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(12,10): error C3646: 'tJugadas': especificador de invalidación desconocido
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(12,18): error C2143: error de sintaxis: falta ',' delante de '['
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(12,33): error C2238: símbolos (token) inesperados delante de ';'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(41,52): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(41,52): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(46,9): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(50,45): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(50,68): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(66,34): error C2668: 'mostrar': llamada ambigua a una función sobrecargada
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Fichas.h(19,6): message : puede ser 'void mostrar(const tFicha &)'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(27,6): message : o       'void mostrar(const int)'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(66,34): message : al hacer coincidir la lista de argumentos '(const tFicha)'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(93,11): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(97,13): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(104,11): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(115,9): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(119,11): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(126,9): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(131,17): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(155,15): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(159,17): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(166,15): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(177,13): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(181,15): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(188,13): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.cpp(193,21): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+  Soportes.cpp
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(9,24): error C2065: 'NumFichas': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(9,11): error C2737: "<Desconocido>*": se debe inicializar el objeto <Desconocido>
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11,23): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11,16): error C2146: error de sintaxis: falta ';' delante del identificador 'tJugada'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11,24): error C2065: 'NumFichas': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11,38): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(15,25): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(15,25): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(18,31): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(18,31): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(22,26): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(22,42): error C2065: 'ficha': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(22,34): error C2275: 'tFicha': uso no válido de este tipo como expresión
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11): message : vea la declaración de 'tFicha'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(27,27): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(27,27): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(30,27): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(30,27): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(32,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(32,30): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(35,40): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(35,40): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.h(37,52): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.h(37,52): error C2143: error de sintaxis: falta ',' delante de '&'
+  Tablero.cpp
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(12,10): error C3646: 'tJugadas': especificador de invalidación desconocido
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(12,18): error C2143: error de sintaxis: falta ',' delante de '['
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(12,33): error C2238: símbolos (token) inesperados delante de ';'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(18,31): error C2061: error de sintaxis: identificador 'tSoporte'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(9,24): error C2065: 'NumFichas': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(9,11): error C2737: "<Desconocido>*": se debe inicializar el objeto <Desconocido>
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11,23): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11,16): error C2146: error de sintaxis: falta ';' delante del identificador 'tJugada'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11,24): error C2065: 'NumFichas': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11,38): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(15,25): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(15,25): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(18,31): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(18,31): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(22,26): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(22,42): error C2065: 'ficha': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(22,34): error C2275: 'tFicha': uso no válido de este tipo como expresión
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11): message : vea la declaración de 'tFicha'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(27,27): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(27,27): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(30,27): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(30,27): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(32,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(32,30): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(35,40): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(35,40): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Fichas.h(13,8): error C2371: 'tFicha': nueva definición; tipos básicos distintos
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Jugadas.h(11): message : vea la declaración de 'tFicha'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.h(37,52): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Soporte.h(37,52): error C2143: error de sintaxis: falta ',' delante de '&'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(14,10): error C2146: error de sintaxis: falta ';' delante del identificador 'jugada'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(14,10): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(25,45): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(29,37): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(29,50): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(35,22): warning C4018: '<': no coinciden signed/unsigned
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(37,21): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(44,23): warning C4018: '<': no coinciden signed/unsigned
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(52,23): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(52,57): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(52,4): error C2064: el término no se evalúa como una función con 1 argumentos
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(53,27): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(57,23): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(57,64): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(57,4): error C2064: el término no se evalúa como una función con 1 argumentos
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(58,27): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(60,12): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(71,18): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(71,37): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(73,11): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(74,13): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(74,47): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(77,12): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(78,12): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(80,27): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(83,12): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(84,19): error C2065: 'jugada': identificador no declarado
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.cpp(108,20): error C2039: "tJugadas": no es un miembro de "tTablero"
+G:\Mi unidad\Uni\FP2\finaRumikonv1Entrega\fp2final\fp2final\Tablero.h(11): message : vea la declaración de 'tTablero'
+  Generando código...
